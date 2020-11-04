@@ -8,12 +8,11 @@
 
 **数组**
 
-- [all](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/all.md)
-- [allEqual](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/allEqual.md)
-- [allEqualBy](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/allEqualBy.md)
-- [allUnique](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/allUnique.md)
-- [allUniqueBy](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/allUniqueBy.md)
-
+- [all](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/all.md)
+- [allEqual](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allEqual.md)
+- [allEqualBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allEqualBy.md)
+- [allUnique](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUnique.md)
+- [allUniqueBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUniqueBy.md)
 
 ## 关于我
 
