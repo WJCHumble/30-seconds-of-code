@@ -12,6 +12,8 @@
 - [allEqualBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allEqualBy.md)
 - [allUnique](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUnique.md)
 - [allUniqueBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUniqueBy.md)
+- [and](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/and.md)
+- [any](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/any.md)
 
 ## 关于我
 
