@@ -4,14 +4,6 @@
 
 > 英文版地址：[https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
-## 关于我
-
-掘金：[https://juejin.im/user/2823201592973527/posts](https://juejin.im/user/2823201592973527/posts)
-
-微信公众号：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201018213439800.jpg#pic_center)
-
 ## 目录
 
 **数组**
@@ -23,4 +15,10 @@
 - [allUniqueBy](https://github.com/WJCHumble/30-seconds-of-code/blob/master/snippets/allUniqueBy.md)
 
 
+## 关于我
 
+掘金：[https://juejin.im/user/2823201592973527/posts](https://juejin.im/user/2823201592973527/posts)
+
+微信公众号：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201018213439800.jpg#pic_center)
