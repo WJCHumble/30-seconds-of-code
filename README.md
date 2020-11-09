@@ -1,7 +1,6 @@
 ## 基本介绍
 
-中文版 30-seconds-of-code，满足你所有开发需求的简短 JavaScript 代码片段。英文版：[https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-。
+中文版 30-seconds-of-code，满足你所有开发需求的简短 JavaScript 代码片段。
 
 ## 目录
 
