@@ -4,18 +4,33 @@
 
 ## 目录
 
-**数组**
+**初级**
 
-- [all](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/all.md)
-- [allEqual](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allEqual.md)
-- [allEqualBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allEqualBy.md)
-- [allUnique](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUnique.md)
-- [allUniqueBy](https://github.com/WJCHumble/30-seconds-of-code/tree/main/snippets/allUniqueBy.md)
+- [all](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/all.md)
+- [allEqual](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/allEqual.md)
 - [and](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/and.md)
 - [any](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/any.md)
+- [approximatelyEqual](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/approximatelyEqual.md)
+- [arithmeticProgression](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/arithmeticProgression.md)
+- [atob](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/atob.md)
 - [average](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/average.md)
-- [averageBy](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/averageBy.md)
+- [binomialCoefficient](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/binomialCoefficient.md)
+- [both](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/both.md)
+
+**中等**
+
+- [accumulate](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/accumulate.md)
 - [addDaysToDate](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/addDaysToDate.md)
+- [addMultipleListeners](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/addMultipleListeners.md)
+- [addWeekDays](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/addWeekDays.md)
+- [allEqualBy](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/allEqualBy.md)
+- [aperture](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/aperture.md)
+- [arrayToCSV](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/arrayToCSV.md)
+- [arrayToHTMLList](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/arrayToHTMLList.md)
+- [averageBy](https://github.com/WJCHumble/30-seconds-of-code/blob/main/snippets/averageBy.md)
+
+**高级**
+
 
 ## 关于我
 

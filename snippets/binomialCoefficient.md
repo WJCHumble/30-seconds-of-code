@@ -1,6 +1,6 @@
 ---
 方法名: binomialCoefficient
-标签: 数学，初学者
+标签: 数学，初级
 ---
 
 
