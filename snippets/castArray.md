@@ -1,6 +1,6 @@
 ---
-title: castArray
-tags: type,array,beginner
+方法名: castArray
+标签: 类型，数组，初级
 ---
 
 如果提供的值不是数组，则将它转为数组。

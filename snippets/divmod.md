@@ -1,12 +1,12 @@
 ---
-title: divmod
-tags: math,beginner
+方法名: divmod
+标签: 数学，初级
 ---
 
-Returns an array consisting of the quotient and remainder of the given numbers.
+- 返回给定数字的商和余数构成的数组。
 
-- Use `Math.floor()` to get the quotient of the division `x / y`.
-- Use the modulo operator (`%`) to get the remainder of the division `x / y`.
+- 使用 `Math.floor()` 来获取 `x / y` 的商。
+- 使用模运算符来获取 `x / y` 的余数。
 
 ```js
 const divmod = (x, y) => [Math.floor(x / y), x % y];

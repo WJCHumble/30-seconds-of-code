@@ -1,12 +1,12 @@
 ---
-title: dropRight
-tags: array,beginner
+方法名: dropRight
+标签: 数组，初级
 ---
 
-Creates a new array with `n` elements removed from the right.
+创建一个移除了右边起`n` 个元素的数组。
 
-- Use `Array.prototype.slice()` to remove the specified number of elements from the right.
-- Omit the last argument, `n`, to use a default value of `1`.
+- 使用 `Array.prototype.slice()` 来移除从右边算起制定数字个的元素。
+- 省略最后一个参数 `n`，默认值为 `1`。
 
 ```js
 const dropRight = (arr, n = 1) => arr.slice(0, -n);

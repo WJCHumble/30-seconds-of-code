@@ -1,12 +1,12 @@
 ---
-title: drop
-tags: array,beginner
+方法名: drop
+标签: 数组，初级
 ---
 
-Creates a new array with `n` elements removed from the left.
+创建一个移除左边起移除 `n` 个元素的数组。
 
-- Use `Array.prototype.slice()` to remove the specified number of elements from the left.
-- Omit the last argument, `n`, to use a default value of `1`.
+- 使用 `Array.prototype.slice()` 来移除从左边算起制定数字个的元素。
+- 省略最后一个参数 `n`，默认值为 `1`。
 
 ```js
 const drop = (arr, n = 1) => arr.slice(n);

@@ -1,6 +1,6 @@
 ---
-title: difference
-tags: array,beginner
+方法名: difference
+标签: 数组，初级
 ---
 
 计算两个数组的差异，而不过滤重复的值。
